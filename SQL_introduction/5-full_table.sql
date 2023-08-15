@@ -1,2 +1,2 @@
 --script that prints full description of a table from a database.
-SHOW CREATE TABLE first_table;
+SHOW COLUMN FROM first_table WHERE hbtn_0c_0;
